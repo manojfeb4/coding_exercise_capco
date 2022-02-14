@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-19T07:05:13Z" name="Component Tests" finished-at="2021-07-19T07:05:14Z" duration-ms="244">
+    <groups>
+    </groups>
+    <test started-at="2021-07-19T07:05:13Z" name="a-t1" finished-at="2021-07-19T07:05:14Z" duration-ms="244">
+      <class name="TestSudokuValidator">
+        <test-method signature="test1()[pri:0, instance:TestSudokuValidator@646be2c3]" started-at="2021-07-19T07:05:13Z" name="test1" finished-at="2021-07-19T07:05:14Z" duration-ms="198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:0, instance:TestSudokuValidator@646be2c3]" started-at="2021-07-19T07:05:14Z" name="test2" finished-at="2021-07-19T07:05:14Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test3()[pri:0, instance:TestSudokuValidator@646be2c3]" started-at="2021-07-19T07:05:14Z" name="test3" finished-at="2021-07-19T07:05:14Z" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method signature="test4()[pri:0, instance:TestSudokuValidator@646be2c3]" started-at="2021-07-19T07:05:14Z" name="test4" finished-at="2021-07-19T07:05:14Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+      </class> <!-- TestSudokuValidator -->
+    </test> <!-- a-t1 -->
+  </suite> <!-- Component Tests -->
+</testng-results>
